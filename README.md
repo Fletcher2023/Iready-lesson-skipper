@@ -5,7 +5,7 @@ created by wang
 continued by flowings
 
 this also will probably never will be updated like the basic hack since the main hack is here:
-https://github.com/flowingsalt/Wangify
+https://github.com/flowingsalt/flowify
 
 discord:
 https://discord.gg/jN2pE74Awh
